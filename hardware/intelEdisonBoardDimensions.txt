@@ -1,0 +1,24 @@
+irl (approximate: values are slightly larger than the real thing by like, a 16th or a 32nd)
+
+2 7/8" x 4 7/8"
+
+autocad 
+
+6' x 10'-2 1/4"
+
+converted to inches
+
+
+72" x 122-1/4"
+
+
+ratios:
+
+72" x .04 = 2.88" = 2.875" = 2 7/8"
+122.25" x .047 = 5.75" = 5.762" = 4 7/8"
+
+peg feet dimensions
+
+1" x 10/32"
+
+1" x .3125"
